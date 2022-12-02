@@ -1,0 +1,16 @@
+body{
+    background-color: #FCDDB0;
+}
+
+
+.navBar{
+    background-color: #7F669D;
+    height: 60px;
+    font-size: 20px;
+}
+
+.navBar a{
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+}
